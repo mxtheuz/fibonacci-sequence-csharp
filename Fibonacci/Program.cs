@@ -1,4 +1,5 @@
-﻿int agora = 1;
+// fibonacci sequence
+int agora = 1;
 int penultimo = 0;
 
 Console.WriteLine(agora);
